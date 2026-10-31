@@ -1,5 +1,8 @@
 # Single-Axis Auto-Adjusting Gimbal
-This repository showcases the different stages of my code and also the final version in main when working on the Firmware Trial Project for the Robotics Club in Fall 2026.
+An Arduino-based single-axis gimbal that uses an MPU-6050 inertial measurement unit to detect changes in orientation and automatically adjust a servo motor. This repository documents the development process, including early experiments, intermediate versions, and the final implementation in the main branch.
+
+## Project Overview
+The goal of this project was to create a simple stabilizing system that responds to the motion of its platform. The MPU-6050 measures the platform's movement, the Arduino processes the sensor readings, and the servo adjusts the gimbal along one axis to help maintain its desired position.
 
 ## Hardware Used
 - Elegoo UNO R3
