@@ -1,8 +1,8 @@
 # Single-Axis Auto-Adjusting Gimbal
-An Arduino-based gimbal that uses an MPU-6050 to detect changes in orientation and adjust a servo motor along one axis. This project was developed for the Robotics Club Firmware Trial Project in Fall 2026.
+An Arduino-based gimbal that uses an MPU-6050 to detect changes in orientation and adjust a servo motor along one axis.
 
 ## How It Works
-The MPU-6050 measures the gimbal's movement. The Arduino processes the sensor data and adjusts the servo to compensate for changes in orientation. The repository includes the different stages of development, from early testing to the final implementation in the main branch.
+The MPU-6050 measures the device's movement. The Arduino processes the sensor data and adjusts the servo to move according to how much the device tilts. The repository includes the different stages of development, from early testing to the final implementation in the main branch.
 
 ## Hardware Used
 - Elegoo UNO R3
@@ -11,11 +11,11 @@ The MPU-6050 measures the gimbal's movement. The Arduino processes the sensor da
 - Breadboard and jumper wires
 
 ## Setup
-1. Open the final Arduino sketch in the Arduino IDE.
-2. Install the required libraries, such as Wire and Servo.
-3. Connect the hardware according to the wiring table.
-4. Select Arduino Uno and the correct serial port.
-5. Upload the firmware and test the gimbal's response to movement.
+1. Open the final working sketch in the Arduino IDE.
+2. Connect the Elegoo UNO R3 to your computer.
+3. Verify and compile the code.
+4. Upload the firmware to the microcontroller.
+5. Use serial monitor to adjust offset
 
 ## Future Improvements
 - Add a second stabilization axis
