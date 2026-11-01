@@ -4,7 +4,7 @@ An Arduino-based gimbal that uses an MPU-6050 to detect changes in orientation a
 ## How It Works
 The MPU-6050 measures the device's movement. The Arduino processes the sensor data and adjusts the servo to move according to how much the device tilts. The repository includes the different stages of development, from early testing to the final implementation in the main branch.
 
-<iframe width="560" height="315" src="(https://www.youtube.com/embed/<lS9gYSJsHQ4)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/<lS9gYSJsHQ4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Hardware Used
