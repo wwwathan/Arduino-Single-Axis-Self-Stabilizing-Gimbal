@@ -7,7 +7,9 @@ The MPU-6050 measures the device's movement. The Arduino processes the sensor da
 [![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/<lS9gYSJsHQ4)
 
 [<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/<lS9gYSJsHQ4)
+/>](
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/video-id](https://www.youtube.com/embed/<lS9gYSJsHQ4))" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Hardware Used
